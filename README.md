@@ -1,2 +1,4 @@
-# Project_1
-✅ Develop a FastAPI-based backend ✅ Work with MongoDB using async queries ✅ Create a Dockerized application ✅ Set up a CI/CD pipeline for automated testing &amp; deployment ✅ Organize code using GitHub repository &amp; version control best practices
+# 📝 Project 1: FastAPI Microservice with Docker, MongoDB & CI/CD
+### **Objective:**
+
+Showcase your ability to **build a backend service using FastAPI**, store data in **MongoDB**, and containerize it with **Docker**, while setting up a **CI/CD pipeline**.
